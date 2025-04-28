@@ -17,5 +17,5 @@ A simple web application that displays student information and allows adding cou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-profile-app.git
-   cd personal-profile-app
+   git clone https://github.com/JereLepp/Web-Dev-Test
+   cd student-app
